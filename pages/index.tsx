@@ -31,6 +31,7 @@ const Home: NextPage = () => {
     }
     setLoading(false);
   };
+
   return (
     <div className={styles.container}>
       <Head>
